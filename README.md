@@ -1,33 +1,13 @@
-# privdayz-web-shell
+# privdayz web shell - next generation php web shell bypass
 A next-generation PHP web shell designed for maximum stealth and power: real-time terminal, auto-kernel exploits, Windows admin bypass, symlink tools, config grabbers, cPanel/WP hacks, mass defacer, ultra upload, and more. Bypass all modern WAF, EDR, and antivirus. For red teaming, exploit devs, and advanced server ops. 
-# PR1VD4YZ SHELL v1 🚨
-## The Most Advanced Underground PHP Webshell | 2025 Ready
 ### coded by [privdayz.com](https://privdayz.com) // helped by community [ciredt]
 
 ---
 
-<!-- Privdayz Shell: Screenshots Gallery -->
-<h2 align="center" style="color:#e53935; font-size:2em; font-weight:900; margin:38px 0 18px 0; letter-spacing:-1px;">
-  <img src="https://privdayz.com/favicon.ico" width="32" style="vertical-align:middle;margin-right:8px;">
-  Privdayz Shell — Screenshots
-</h2>
-
-<div align="center">
-  <style>
-    .pdz-minigallery { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin:18px auto 44px auto; }
-    .pdz-minigallery-item { 
-      display: block; border-radius:12px; overflow:hidden; box-shadow:0 4px 20px #1a13208e;
-      border: 2.2px solid #221221; transition:.14s; background: #181521; max-width:270px;
-    }
-    .pdz-minigallery-item:hover { border-color:#e53935; box-shadow:0 2px 26px #e5393577, 0 1px 7px #ff397229; }
-    .pdz-minigallery-img { display:block; width:100%; height:160px; object-fit:cover; background:#23202b; }
-    @media (max-width: 900px){ .pdz-minigallery-img { height:110px; } }
-    @media (max-width: 650px){
-      .pdz-minigallery { gap:11px; }
-      .pdz-minigallery-item { max-width:98vw; }
-    }
-  </style>
-  <div class="pdz-minigallery">
+<div align="center">  <div class="pdz-minigallery">
+   <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" target="_blank" title="Symlink Escaper">
+      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" alt="Symlink Escaper">
+    </a>
     <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" target="_blank" title="Command Nirvana Terminal">
       <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" alt="Command Nirvana Terminal">
     </a>
