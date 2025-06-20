@@ -1,4 +1,9 @@
 # Privdayz Shell — Next-Gen Stealth Web Shell & Multi-Bypass Toolkit (2025)
+![Stealth Bypass](https://img.shields.io/badge/Stealth%20Bypass-%23ff3972?style=for-the-badge&logo=ghost&logoColor=fff)
+![WAF Evasion](https://img.shields.io/badge/WAF%20Evasion-%2349d0f5?style=for-the-badge&logo=cloudflare&logoColor=fff)
+![Kernel/WinR00t](https://img.shields.io/badge/Kernel%2FWinR00t-%23ffe152?style=for-the-badge&logo=linux&logoColor=232323)
+![Polymorphic Code](https://img.shields.io/badge/Polymorphic%20Code-%231ede7d?style=for-the-badge&logo=codeforces&logoColor=fff)
+![Real-Time Terminal](https://img.shields.io/badge/Real--Time%20Terminal-%23bfaaff?style=for-the-badge&logo=terminal&logoColor=fff)
 A next-generation PHP web shell designed for maximum stealth and power: real-time terminal, auto-kernel exploits, Windows admin bypass, symlink tools, config grabbers, cPanel/WP hacks, mass defacer, ultra upload, and more. Bypass all modern WAF, EDR, and antivirus. For red teaming, exploit devs, and advanced server ops. 
 
 ---
