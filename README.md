@@ -3,29 +3,58 @@ A next-generation PHP web shell designed for maximum stealth and power: real-tim
 
 ---
 
-<div align="center">  <div class="pdz-minigallery">
-   <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" target="_blank" title="Symlink Escaper">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" alt="Symlink Escaper">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" target="_blank" title="Command Nirvana Terminal">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" alt="Command Nirvana Terminal">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" target="_blank" title="Linux AutoRoot">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" alt="Linux AutoRoot">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/winr00t.jpg" target="_blank" title="WinR00t Ultra Bypass">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/winr00t.jpg" alt="WinR00t Ultra Bypass">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-symlink.jpg" target="_blank" title="Symlink Manager">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-symlink.jpg" alt="Symlink Manager">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-safemod.jpg" target="_blank" title="Safemode/Func Bypass">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-safemod.jpg" alt="Safemode/Func Bypass">
-    </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-wp.jpg" target="_blank" title="WordPress Auto Hunter">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-wp.jpg" alt="WordPress Auto Hunter">
-    </a>
-  </div>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" alt="Privdayz Shell" width="210"/><br>
+        <sub><b>Privdayz Shell</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" alt="Linux AutoRoot" width="210"/><br>
+        <sub><b>Linux AutoRoot</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" alt="Command Nirvana" width="210"/><br>
+        <sub><b>Command Nirvana</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/winr00t.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/winr00t.jpg" alt="WinR00t Ultra Bypass" width="210"/><br>
+        <sub><b>WinR00t Ultra Bypass</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-symlink.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-symlink.jpg" alt="Symlink Manager" width="210"/><br>
+        <sub><b>Symlink Manager</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-safemod.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-safemod.jpg" alt="Safemode/Func Bypass" width="210"/><br>
+        <sub><b>Safemode/Func Bypass</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://privdayz.com/wp-content/uploads/privdayz-wp.jpg" target="_blank">
+        <img src="https://privdayz.com/wp-content/uploads/privdayz-wp.jpg" alt="WordPress Auto Hunter" width="210"/><br>
+        <sub><b>WordPress Auto Hunter</b></sub>
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 </div>
 
 
