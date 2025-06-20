@@ -7,8 +7,8 @@ A next-generation PHP web shell designed for maximum stealth and power: real-tim
    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" target="_blank" title="Symlink Escaper">
       <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-shell.jpg" alt="Symlink Escaper">
     </a>
-    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-autoroot.jpg" target="_blank" title="Command Nirvana Terminal">
-      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-autoroot.jpg" alt="Command Nirvana Terminal">
+    <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" target="_blank" title="Command Nirvana Terminal">
+      <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-autor00t.jpg" alt="Command Nirvana Terminal">
     </a>
     <a class="pdz-minigallery-item" href="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" target="_blank" title="Linux AutoRoot">
       <img class="pdz-minigallery-img" src="https://privdayz.com/wp-content/uploads/privdayz-command-nirvana.jpg" alt="Linux AutoRoot">
