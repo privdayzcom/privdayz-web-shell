@@ -121,28 +121,7 @@ Designed to operate **on any server**, old or new (Linux/Windows), including har
 - `?fsearch` - Recursive file/keyword searcher
 - `?adminer` - Adminer auto downloader
 - `?wafdet` - WAF/reverse proxy detector
-
-#### **Windows Only / Redteam Tools**
 - `?winr00t` - Ultra Bypass Admin/RDP User Creator (10+ chained method, service, schtasks, regedit, at, sc, wmic, PowerShell, etc)
-
----
-
-## 🔒 Security / Stealth
-
-- **Obfuscated Core:** Every function, path, method and call is obfuscated & randomized.
-- **No obvious keywords:** `eval`, `base64`, `system` etc are hidden/renamed/micro-obfuscated.
-- **Session-less login:** (add your own auth in config if needed)
-- **Self-cleanup & log wiping:** All log deletion and kill actions are fallback-based, micro-randomized.
-- **Ultra-low memory/CPU footprint:** For weak or ultra-limited shared hosts.
-
----
-
-## 📦 Installation & Usage
-
-1. **Upload `privdayz.php` to any PHP-enabled webserver.**
-2. **Access `https://yoursite.com/privdayz.php` in your browser.**
-3. **All tools are GET/POST-accessible via menu or direct URL: `?toolname`**
-4. *(Optional)* Change filename after upload. Set custom auth in header if desired.
 
 ---
 
@@ -155,7 +134,4 @@ Designed to operate **on any server**, old or new (Linux/Windows), including har
 
 <div align="center">
   <img src="https://cdn.privdayz.com/images/logo_v2.png" width="100" alt="privdayz shell logo">
-  <br>
-  <b>coded by privdayz.com // inspired & supported by underground</b><br>
-  <sub>Special thanks: ciredt, all bughunters, and the real scene.</sub>
 </div>
