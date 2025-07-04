@@ -7,7 +7,7 @@
 # | |    | | \ \ | |  \  /  | |__| |  | |  | |   / /__   #
 # |_|    |_|  \_\|_|   \/   |_____/   |_|  |_|  /_____|  #
 # powered by privdayz.com - 2025                         #
-# github.com/privdayzcom   |   t.me/privday z            #
+# github.com/privdayzcom   |   t.me/privdayz             #
 ##########################################################
 @set_time_limit(0);
 @clearstatcache();
